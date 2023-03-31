@@ -1,9 +1,4 @@
 # BIG DATA PROJECT
-# NAME - MATRICULATION NUMBER
-# Abhishek Harsha Raj- 219203362
-# Anirudh Kudaragundi Anand Rao- 219203189
-# Harish Muralidhar Rao- 219203058
-# Sindhoora Hegde- 219203260
 
 # The Dataset considered is of football players with many attribute columns from FIFA 2019. 
 # The Preprocessing involves removing columns which are not needed for analysis, removing unwanted symbols, removing null values and feature scaling
